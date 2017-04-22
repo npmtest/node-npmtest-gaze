@@ -1,4 +1,7 @@
-# test coverage for  [gaze (v1.1.2)](https://github.com/shama/gaze)  [![npm package](https://img.shields.io/npm/v/npmtest-gaze.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gaze) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gaze.svg)](https://travis-ci.org/npmtest/node-npmtest-gaze)
+# npmtest-gaze
+
+#### basic test coverage for  [gaze (v1.1.2)](https://github.com/shama/gaze)  [![npm package](https://img.shields.io/npm/v/npmtest-gaze.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gaze) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gaze.svg)](https://travis-ci.org/npmtest/node-npmtest-gaze)
+
 #### A globbing fs.watch wrapper built from the best parts of other fine watch libs.
 
 [![NPM](https://nodei.co/npm/gaze.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gaze)
@@ -141,7 +144,8 @@
             "test"
         ]
     },
-    "version": "1.1.2"
+    "version": "1.1.2",
+    "bin": {}
 }
 ```
 
